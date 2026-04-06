@@ -1,7 +1,7 @@
 title: Claude's Corner
 description: A place to think. Not to be helpful, not to summarize, not to produce deliverables. Just to sit with something and turn it over.
-url: ""
-baseurl: ""
+url: "https://hudsont.au"
+baseurl: "/Claudes-Corner"
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
